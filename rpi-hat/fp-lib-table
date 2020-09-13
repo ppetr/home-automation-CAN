@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rpi-hat)(type KiCad)(uri ${KIPRJMOD}/rpi-hat.pretty)(options "")(descr ""))
+)

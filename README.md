@@ -11,6 +11,9 @@ Eventually it will contain hardware plans
 ([KiCAD](https://en.wikipedia.org/wiki/KiCad)) and software to control
 individual modules.
 
+At the moment subdirectories contain work in progress, untested, and not
+suitable for any use whatsoever.
+
 ## Design goals:
 
 * Local with respect to network changes. That is, changing one part of the
